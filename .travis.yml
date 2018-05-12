@@ -1,6 +1,6 @@
 os: osx
 osx_image: xcode9.3
 language: swift
-xcode_workspace: sight.wcworkspace
-xcode_scheme: sight
-xcode_sdk: iphonesimulator11.3
+
+script:
+  - xcodebuild clean build -sdk iphonesimulator11.3 -workspace sight.xcworkspace -scheme sight CODE_SIGNING_REQUIRED=NO
