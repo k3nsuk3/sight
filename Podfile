@@ -17,6 +17,7 @@ target 'sight' do
   pod 'RealmSwift', '~> 3.5'
   pod 'KeychainAccess', '~> 3.1'
   pod 'LicensePlist', '~> 1.8'
+  pod 'SWXMLHash', '~> 4.7'
 
   target 'sightTests' do
     inherit! :search_paths
