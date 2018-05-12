@@ -6,4 +6,4 @@ before_install:
   - gem install xcpretty
 
 script:
-  - xcodebuild clean build -sdk iphonesimulator11.3 -workspace sight.xcworkspace -scheme sight CODE_SIGNING_REQUIRED=NO | xcpretty
+  - xcodebuild -workspace sight.xcworkspace -scheme "sight" -sdk iphonesimulator11.3 -destination 'platform=iOS Simulator,name=iPhone 8 Plus,OS=11.3' test | xcpretty
