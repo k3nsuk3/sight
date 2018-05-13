@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/k3nsuk3/sight.svg?branch=master)](https://travis-ci.org/k3nsuk3/sight)
 [![codecov](https://codecov.io/gh/k3nsuk3/sight/branch/master/graph/badge.svg)](https://codecov.io/gh/k3nsuk3/sight)
+[![codebeat badge](https://codebeat.co/badges/c75c1b7b-530d-4bb3-a9de-98e75c3d76e4)](https://codebeat.co/projects/github-com-k3nsuk3-sight-master)
 
 RSS Feed Reader.
 
