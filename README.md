@@ -1,6 +1,7 @@
 # sight
 
 [![Build Status](https://travis-ci.org/k3nsuk3/sight.svg?branch=master)](https://travis-ci.org/k3nsuk3/sight)
+[![codecov](https://codecov.io/gh/k3nsuk3/sight/branch/master/graph/badge.svg)](https://codecov.io/gh/k3nsuk3/sight)
 
 RSS Feed Reader.
 
