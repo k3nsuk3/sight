@@ -29,7 +29,7 @@ $ pod install
 |[realm/RealmSwift](https://github.com/realm/realm-cocoa)|~> 3.5|[Apache 2.0 License](https://github.com/realm/realm-cocoa/blob/master/LICENSE)|
 |[kishikawakatsumi/KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess)|~> 3.1|[MIT License](https://github.com/kishikawakatsumi/KeychainAccess/blob/master/LICENSE)|
 |[mono0926/LicensePlist](https://github.com/mono0926/LicensePlist)|~> 1.8|[MIT License](https://github.com/mono0926/LicensePlist/blob/master/LICENSE)|
-|[drmohundro/SWXMLHash](https://github.com/drmohundro/SWXMLHash)|~> 4.7|[MIT License](https://github.com/drmohundro/SWXMLHash/blob/master/LICENSE)|
+|[nmdias/FeedKit](https://github.com/nmdias/FeedKit)|~> 7.1|[MIT License](https://github.com/nmdias/FeedKit/blob/master/LICENSE)|
 |[ReactiveX/RxBlocking](https://github.com/ReactiveX/RxSwift)|~> 4.0|[MIT License](https://github.com/ReactiveX/RxSwift/blob/master/LICENSE.md)|
 |[ReactiveX/RxTest](https://github.com/ReactiveX/RxSwift)|~> 4.0|[MIT License](https://github.com/ReactiveX/RxSwift/blob/master/LICENSE.md)|
 |[Quick/Quick](https://github.com/Quick/Quick)|~> 1.3|[Apache 2.0 License](https://github.com/Quick/Quick/blob/master/LICENSE)|

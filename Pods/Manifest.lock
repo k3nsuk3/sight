@@ -1,6 +1,7 @@
 PODS:
   - Alamofire (4.7.2)
   - Compass (6.0.0)
+  - FeedKit (7.1.0)
   - KeychainAccess (3.1.1)
   - LicensePlist (1.8.3)
   - Moya/Core (11.0.2):
@@ -32,10 +33,10 @@ PODS:
   - RxTest (4.1.2):
     - RxSwift (~> 4.0)
   - SwiftLint (0.25.1)
-  - SWXMLHash (4.7.0)
 
 DEPENDENCIES:
   - Compass (~> 6.0)
+  - FeedKit (~> 7.1)
   - KeychainAccess (~> 3.1)
   - LicensePlist (~> 1.8)
   - Moya/RxSwift (~> 11.0)
@@ -50,12 +51,12 @@ DEPENDENCIES:
   - RxSwift (~> 4.0)
   - RxTest (~> 4.0)
   - SwiftLint (~> 0.25)
-  - SWXMLHash (~> 4.7)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Alamofire
     - Compass
+    - FeedKit
     - KeychainAccess
     - LicensePlist
     - Moya
@@ -73,11 +74,11 @@ SPEC REPOS:
     - RxSwift
     - RxTest
     - SwiftLint
-    - SWXMLHash
 
 SPEC CHECKSUMS:
   Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
   Compass: ff30e2056c549ea5cb5b8a307d28ef628e4209ff
+  FeedKit: 428e7e70f9b8993e609c52160d00c94fabdb22ef
   KeychainAccess: 7bd430028059754a3debab3cfc0bd1fc7fb85df3
   LicensePlist: 3fda61ebe060afc8fc6d995df34a91401af5a244
   Moya: a725035953bc1c0eb1be505ab903984501d82440
@@ -95,8 +96,7 @@ SPEC CHECKSUMS:
   RxSwift: e49536837d9901277638493ea537394d4b55f570
   RxTest: e634f15fd2c2cd0e0120132ef7a4f7be69ad0393
   SwiftLint: ce933681be10c3266e82576dad676fa815a602e9
-  SWXMLHash: f4522438189f72b41e39676d19469a8969d60dd1
 
-PODFILE CHECKSUM: 415a0edf1c87e93b4b7f8cd7b29dad1d042097e4
+PODFILE CHECKSUM: 3151593c72f709285d04265eb970bdeb5a49f78d
 
 COCOAPODS: 1.5.2
